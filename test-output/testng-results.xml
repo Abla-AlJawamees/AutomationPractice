@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-02T18:40:40 MSK" name="Default suite" finished-at="2025-12-02T18:40:46 MSK" duration-ms="5768">
+    <groups>
+    </groups>
+    <test started-at="2025-12-02T18:40:40 MSK" name="Default test" finished-at="2025-12-02T18:40:46 MSK" duration-ms="5768">
+      <class name="MyTestCase">
+        <test-method is-config="true" signature="MySetup()[pri:0, instance:MyTestCase@2a76840c]" started-at="2025-12-02T18:40:40 MSK" name="MySetup" finished-at="2025-12-02T18:40:46 MSK" duration-ms="5589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MySetup -->
+        <test-method signature="SelectTag()[pri:3, instance:MyTestCase@2a76840c]" started-at="2025-12-02T18:40:46 MSK" name="SelectTag" finished-at="2025-12-02T18:40:46 MSK" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectTag -->
+      </class> <!-- MyTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
