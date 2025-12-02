@@ -12,7 +12,7 @@ import org.testng.AssertJUnit;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-@Test
+
 public class MyTestCase {
 
 	WebDriver driver = new ChromeDriver();
